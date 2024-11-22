@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divyansh Saharan
 - 🔭 I am a CS Undergrad at <a href="http://www.nsut.ac.in/">Netaji Subhas University of Technology</a>
-- ⚡  I’m interested in Machine Learning,Deep Learning Computer Vision and Robotics. I’m a MERN stack web developer with interest in Machine Learning and Data Science
+- ⚡ I’m a MERN stack web developer with interest in Machine Learning and Data Science
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Divyansh_Saharan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-saharan-534380259/)
 ---
 
