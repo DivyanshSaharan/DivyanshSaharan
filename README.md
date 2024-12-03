@@ -12,7 +12,7 @@
 
 <div align="center">
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshSaharan&theme=dark&background=0d1117" alt="GitHub Streak Stats" height="220px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshSaharan&theme=dark" alt="GitHub Streak Stats" height="220px" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshSaharan&layout=compact&theme=github_dark" alt="Top Languages" height="220px" />
 </p>
   
